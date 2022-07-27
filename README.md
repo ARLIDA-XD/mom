@@ -23,3 +23,17 @@ $ cd mom
 
 $ python mom.py
 ```
+
+```bash
+Cara Update 
+
+$ cd
+
+$ cd cracking6
+
+$ ls ( L kecil )
+
+$ git pull
+
+$ python mom.py
+```
